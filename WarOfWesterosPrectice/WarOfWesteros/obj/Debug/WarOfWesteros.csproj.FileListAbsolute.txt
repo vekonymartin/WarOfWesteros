@@ -1,0 +1,7 @@
+C:\Users\Vékony Martin\Documents\C#\WarOfWesteros\WarOfWesteros\bin\Debug\WarOfWesteros.exe.config
+C:\Users\Vékony Martin\Documents\C#\WarOfWesteros\WarOfWesteros\bin\Debug\WarOfWesteros.exe
+C:\Users\Vékony Martin\Documents\C#\WarOfWesteros\WarOfWesteros\bin\Debug\WarOfWesteros.pdb
+C:\Users\Vékony Martin\Documents\C#\WarOfWesteros\WarOfWesteros\obj\Debug\WarOfWesteros.csprojAssemblyReference.cache
+C:\Users\Vékony Martin\Documents\C#\WarOfWesteros\WarOfWesteros\obj\Debug\WarOfWesteros.csproj.CoreCompileInputs.cache
+C:\Users\Vékony Martin\Documents\C#\WarOfWesteros\WarOfWesteros\obj\Debug\WarOfWesteros.exe
+C:\Users\Vékony Martin\Documents\C#\WarOfWesteros\WarOfWesteros\obj\Debug\WarOfWesteros.pdb
